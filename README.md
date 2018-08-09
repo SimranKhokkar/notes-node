@@ -1,2 +1,3 @@
 # notes-node
-A note application to save, create, etc notes using node modules and file operations.
+A simple note application to save, create, remove, etc notes using node modules and file operations.
+Using third party node modules and read/write file operations.
