@@ -11,6 +11,6 @@
   "dependencies": {
     "lodash": "^4.17.20",
     "request": "^2.83.0",
-    "yargs": "^4.7.1"
+    "yargs": "^20.2.1"
   }
 }
